@@ -20,7 +20,7 @@ TODO: Link Medium article here
 
 ### I. Python separately from PowerBI
 
-You can create your filled time table separately in the Jupyter notebook fill_time_gaps_Medium.ipynb instead of embedding the Python script in PowerBI. 
+You can create your filled time table separately in the Jupyter notebook **fill_time_gaps_Medium.ipynb** instead of embedding the Python script in PowerBI. 
 
 Python (through the Jupyter notebook) creates "calls_server_across_time_filled.csv". Then PowerBI can pull this csv file and build visual on top of it. Please refer to the tab "Python and PowerBI separately" in the pbix file. 
 

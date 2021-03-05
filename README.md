@@ -12,9 +12,8 @@ Instead of showing numbers in a table—which can be hard to interpret at a glan
 
 (...)
 
-Take a look at the the rest of the article on Medium! :smile:
+Take a look at the the rest of the article on [Medium](https://medium.com/data-science-at-microsoft/filling-gaps-in-a-timetable-in-power-bi-using-python-beb08e042f5b)! :smile:
 
-TODO: Link Medium article here
 
 ## Replicating the above 
 
